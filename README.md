@@ -11,7 +11,7 @@
 
 ---
 
-## Why do I need this?
+## Why do I need this
 
 If you would like to use Netlify CMS to manage your site deployed to Vercel.
 
